@@ -9,6 +9,11 @@
             "UnauthRoleName": "amplify-todo-todo-14053-unauthRole",
             "StackName": "amplify-todo-todo-14053",
             "StackId": "arn:aws:cloudformation:us-west-2:715504511712:stack/amplify-todo-todo-14053/5ea8b890-09ce-11ea-899a-026696022230"
+        },
+        "categories": {
+            "auth": {
+                "todo77530f97": {}
+            }
         }
     }
 }
